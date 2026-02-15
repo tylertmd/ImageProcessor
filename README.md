@@ -4,7 +4,7 @@ The **Image Processor App** is a Java-based application that allows users to app
 
 ---
 
-## 📸 Technologies Used
+## ⚙️ Technologies Used
 - **Java** – Core programming language for the application  
 - **Swing** – GUI framework for building the interactive interface  
 - **Java AWT** – For image handling and pixel manipulation
