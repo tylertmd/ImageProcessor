@@ -69,3 +69,11 @@ Through this project, I strengthened my understanding of **Java programming**, *
 1. Clone or download the repository:  
    ```bash
    git clone https://github.com/username/image-processor-app.git
+
+## Video Demonstration
+
+Watch a short demo of the Image Processor App in action:
+
+[![Image Processor Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtu.be/dQw4w9WgXcQ)
+
+*Click the image to watch the video on YouTube.*
